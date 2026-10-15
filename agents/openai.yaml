@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coding Task Refiner"
+  short_description: "Optimize AI coding prompts with four-phase methodology"
+  default_prompt: "Use coding-task-refiner to refine this AI coding task prompt before sending it to the agent."

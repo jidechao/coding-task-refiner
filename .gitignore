@@ -1,0 +1,6 @@
+# Tool state / caches
+.omc/
+.memsearch/
+
+# Saved webpage (source material, not part of the skill)
+*.mhtml
